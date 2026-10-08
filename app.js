@@ -270,7 +270,7 @@ class QuizApp {
             // Geography - Hard
             {
                 question: "What is the capital of Kazakhstan?",
-                correct: "Nur-Sultan",
+                correct: "Astana",
                 incorrect: ["Almaty", "Shymkent", "Aktobe"],
                 category: "Geography",
                 difficulty: "hard"
